@@ -168,7 +168,7 @@ begin
                 PIPE ROW( V_RESULT_RECORD ); 
             end if;
         end loop;
-
+ 
     end loop;
 
     return;
